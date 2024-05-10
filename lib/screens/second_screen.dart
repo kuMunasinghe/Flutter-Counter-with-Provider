@@ -11,6 +11,6 @@ class Second extends StatefulWidget {
 class _SecondState extends State<Second> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return const Scaffold();
   }
 }
